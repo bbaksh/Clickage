@@ -7,9 +7,7 @@ Clickage is an addicting tapping game where you must tap the screen as many time
 
 
 Things to do:
-- Create highscore
 - Track highscore with your samsung account
-- Implement pause button functionality
 - Import UI/UX (Front end)
 
 Possibilities:
