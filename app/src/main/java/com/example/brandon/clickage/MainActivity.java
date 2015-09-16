@@ -55,26 +55,26 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 if (x > 0 && x <= 50) {
                     score.setText(String.valueOf(x));
                     score.setTextSize(80);
-                    t.setText("I think you can do better!");
-                    t.setTextSize(20);
+                    t.setText("Do you even click bro?!");
+                    t.setTextSize(25);
                 }
                 if (x > 50 && x <= 100) {
                     score.setText(String.valueOf(x));
                     score.setTextSize(80);
-                    t.setText("You're a natural!");
-                    t.setTextSize(20);
+                    t.setText("Mediocre clicker!");
+                    t.setTextSize(25);
                 }
                 if (x > 100 && x <= 150) {
                     score.setText(String.valueOf(x));
                     score.setTextSize(80);
-                    t.setText("Godlike!");
-                    t.setTextSize(20);
+                    t.setText("Amazing clicker!");
+                    t.setTextSize(25);
                 }
                 if (x > 150) {
                     score.setText(String.valueOf(x));
                     score.setTextSize(80);
-                    t.setText("TAP MASTER!");
-                    t.setTextSize(20);
+                    t.setText("CLICK MASTER!");
+                    t.setTextSize(25);
                 }
             }
         };
